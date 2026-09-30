@@ -46,7 +46,7 @@ function cadUser(){
     let playerobj = {
         nome: nameUser, funcao: playerfuncao, pontuacao: pontplayer
     }
-    time.push(playerobj); //adiciona o dado dentro do () dentro da lista time
+    time.push(playerobj); //adiciona o dados dentro do 'playerobj' que atendem aos parametros dentro da lista 'time'
     console.log('O usuário', nameUser, 'foi cadastrado com sucesso!');
 }
 // Função para DELETAR um item da lista
