@@ -6,7 +6,8 @@ var time = [
 {nome: 'carlos', funcao: 'AR', pontuacao: 1100, estado: true},
 {nome: 'dutra', funcao: 'breacher', pontuacao: 1200, estado: true},
 {nome: 'erik', funcao: 'medic', pontuacao: 2000, estado: true},
-{nome: 'fabio', funcao: 'AT', pontuacao: 1000, estado: true}]
+{nome: 'fabio', funcao: 'AT', pontuacao: 1000, estado: true},
+{nome: 'gabriel', funcao: 'sniper', pontuacao: 400, estado: true}]
 let canRun = true
 // Função para PRINTAR um menu de opções
 function menu(){
